@@ -1,0 +1,3 @@
+[submodule "billed"]
+	path = billed
+	url = https://github.com/mathurinchung/billed.git
